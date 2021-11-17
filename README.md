@@ -1,2 +1,2 @@
-# newslider
+# stackcarousel
 Created with CodeSandbox
